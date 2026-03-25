@@ -60,19 +60,6 @@ Datasets used from UCI Machine Learning Repository:
 
 ---
 
-## 📁 Project Structure
-
-```
-
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── README.md
-
-````
-
----
-
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
