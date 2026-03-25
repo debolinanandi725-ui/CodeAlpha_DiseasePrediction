@@ -1,5 +1,4 @@
 # heart-disease-prediction
-Here’s a **professional README.md** you can directly copy into your GitHub repo 👇
 
 # 🩺 AI Disease Prediction System
 
@@ -136,5 +135,4 @@ For any queries:
 
 This project is for educational purposes.
 
-👉 Or help you make your repo look **top 1% professional**
 ```
